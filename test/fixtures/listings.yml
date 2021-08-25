@@ -1,11 +1,21 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  title: MyString
+  title: Drone 1
   price: 1.5
   description: MyString
 
 two:
-  title: MyString
+  title: Drone 2
+  price: 1.5
+  description: MyString
+
+three:
+  title: Drone 3
+  price: 1.5
+  description: MyString
+
+four:
+  title: Drone 4
   price: 1.5
   description: MyString

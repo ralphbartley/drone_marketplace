@@ -1,9 +1,9 @@
 <h1>Welcome to the Drone Marketplace!</h1>
 
-<ul> 
+<ul>
   <% @listings.each do |listing| %>
     <li>
-      <%= listing.title %>
+      <h3><%= listing.title %></h3>
       <%= listing.price %>
       <%= listing.description %>
     </li>
